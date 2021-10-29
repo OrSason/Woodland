@@ -73,4 +73,6 @@ crashlytics-build.properties
 *.meta
 *.cs.meta
 
+*.psd
+
 /Assets/Extras
